@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kanreddy Yogita
-- 👀 I’m interested in web development
+- 👀 I have a deep interest in web development
 - 🌱 I completed the Cognizant Agile Methodology Virtual Experience program. It was a great opportunity to get some insight into the world of agile software development and how it is applied in real-world projects.
 - 💞️ I’m looking to collaborate on web projects,java language based projects,etc.
 - 📫 How to reach me ...
