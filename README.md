@@ -6,7 +6,7 @@ Hello! I'm Kanreddy Yogita, a passionate Full Stack Web Developer. This GitHub p
 
 ## About Me
 
-I have a strong background in both front-end and back-end development, and I'm always eager to learn and explore new technologies. My goal is to build elegant, efficient, and user-friendly web applications that make a positive impact on users' lives.
+I have a strong background in front-end development, and I'm always eager to learn and explore new technologies. My goal is to build elegant, efficient, and user-friendly web applications that make a positive impact on users' lives.
 
 ## What You'll Find Here
 
