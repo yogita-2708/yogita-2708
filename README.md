@@ -15,7 +15,7 @@ I have a strong background in front-end development, and I'm always eager to lea
 I've worked on a variety of projects that showcase my skills and interests. These projects cover a wide range of technologies and use cases, including:
 
 - **Front-end Development:** HTML, CSS, JavaScript, React, Bootstrap.
-- **Back-end Development:** PHP, Node.js, Express.js.
+- **Back-end Development:** PHP, Node.js, jQuery.
 - **Databases:** MySQL, Oracle.
 
 ### Code Samples
